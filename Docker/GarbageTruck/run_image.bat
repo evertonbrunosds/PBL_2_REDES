@@ -1,0 +1,1 @@
+docker run --name garbage_truck garbage_truck:v1

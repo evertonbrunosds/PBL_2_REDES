@@ -1,0 +1,1 @@
+docker run -p 8080:8080 --name administrator administrator:v1

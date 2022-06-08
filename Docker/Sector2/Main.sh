@@ -1,0 +1,1 @@
+java -jar /usr/src/Sector.jar 2

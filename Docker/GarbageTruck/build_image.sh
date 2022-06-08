@@ -1,0 +1,1 @@
+docker build -t garbage_truck:v1 .

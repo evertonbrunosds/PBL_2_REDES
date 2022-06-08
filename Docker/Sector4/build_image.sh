@@ -1,0 +1,1 @@
+docker build -t sector4:v1 .

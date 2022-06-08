@@ -1,0 +1,1 @@
+docker run --name sector3 sector3:v1
