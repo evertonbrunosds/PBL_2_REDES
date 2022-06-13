@@ -1,1 +1,1 @@
-docker run --name recycle_bin recycle_bin:v1
+docker run --name recycle_bin2 recycle_bin2:v2

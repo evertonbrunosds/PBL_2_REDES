@@ -1,7 +1,5 @@
 package uefs.evertonbrunosds.comumbase.util;
 
-import static uefs.evertonbrunosds.comumbase.util.FileStream.loadFromFile;
-
 /**
  * Classe responsável
  *
@@ -98,7 +96,7 @@ public final class Constants {
         /**
          * Refere-se ao endereço de URI ao broker.
          */
-        public static final String DEFAULT_URI = loadFromFile("host.txt");
+        public static final String DEFAULT_URI = "tcp://broker.mqttdashboard.com:1883";
         /**
          * Refere-se ao tópico padrão.
          */

@@ -1,1 +1,1 @@
-docker build -t recycle_bin:v1 .
+docker build -t recycle_bin2:v2 .

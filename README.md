@@ -29,6 +29,6 @@ ARQUIVO "run_image.bat" ou "run_image.sh"
 # AVISO
 EXECUTE AS IMAGENS NA SEGUINTE ORDEM
 1. Administrator (único)
-2. GarbageTruck (único)
-3. Sector1, Sector2, Sector3, Sector4 (único)
-4. RecycleBin (único ou múltiplos)
+2. Sector1, Sector2, Sector3, Sector4 (único)
+3. RecycleBin (único ou múltiplos)
+4. GarbageTruck (único)
